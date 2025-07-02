@@ -1,0 +1,26 @@
+problem statement Task 2:
+
+Task : Make a 
+
+CAR PRICE Predictor with ML
+After that make a separate Video on it and post On LinkedIn.And Tag SystemTron
+
+This Below Video is for your reference only.
+
+You can show your skills style in your own way DeadLine is End of this week  
+
+
+
+dataset : https://drive.google.com/file/d/17wcOi_UoPklpR2R2a2OPv9RjOvCnLxWj/view?usp=sharing
+
+
+
+colab:
+
+https://drive.google.com/file/d/1Nj07BYtVTckC5g2JQbdonM6_8ceZxnEn/view?usp=sharing
+
+
+
+
+
+
